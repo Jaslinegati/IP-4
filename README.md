@@ -7,6 +7,7 @@ Research Question
 
 Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the
 city of Paris over the month of April 2018
+
 Bonus Questions(Optional)
 
 What is the most popular hour for returning cars?
