@@ -1,4 +1,4 @@
-# IP-4: electric car-sharing service company
+electric car-sharing service company
 This application uses Pandas to analyze data from . We also use datasets provided on canvas.
 The task is to process stations data to understand electric car usage over time by solving for
 the following research question;
